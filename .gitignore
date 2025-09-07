@@ -1,0 +1,47 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm project files
+.idea/
+*.iml
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+
+# MacOS files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Python packages
+*.egg-info/
+dist/
+build/
+
+# TensorFlow / Keras files
+*.keras
+*.h5
+
+# Dataset files
+*.zip
+*.tar.gz
+*.tar
+*.tgz
+/data/
+datasets/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
